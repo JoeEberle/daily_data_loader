@@ -10,7 +10,7 @@ Load a the LATEST DELTA of NEW TRANSACTIONS  into a relational datastore. Run pe
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
