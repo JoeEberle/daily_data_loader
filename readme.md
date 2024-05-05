@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Daily Data Loader   - Load a the LATEST DELTA of NEW TRANSACTIONS  into a relational datastore. Run periodically for freshness. 
 Load a the LATEST DELTA of NEW TRANSACTIONS  into a relational datastore. Run periodically for freshness. 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Daily Data Loader  ** - an example for your projects
 Load a the LATEST DELTA of NEW TRANSACTIONS  into a relational datastore. Run periodically for freshness. 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
