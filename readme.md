@@ -4,21 +4,11 @@
 
 ## Load a the LATEST DELTA of NEW TRANSACTIONS  into a relational datastore. Run periodically for freshness. 
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Daily Data Loader  ** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Daily Data Loader  ** 
 
 Load a the LATEST DELTA of NEW TRANSACTIONS  into a relational datastore. Run periodically for freshness. 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
